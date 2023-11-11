@@ -10,5 +10,6 @@ public class Count_Num {
             }
             n /= 10;
         }
+        System.out.println(count);
     }
 }

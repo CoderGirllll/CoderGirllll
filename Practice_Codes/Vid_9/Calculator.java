@@ -10,7 +10,7 @@ public class Calculator {
             System.out.print("Enter the operator:");
             char op = in.next().trim().charAt(0);
             if ((op == '+') || (op == '-') || (op == '*') || (op == '/')) {
-                System.out.print("Entre 2 numbers:");
+                System.out.print("Enter 2 numbers:");
                 int n1 = in.nextInt();
                 int n2 = in.nextInt();
 
@@ -36,7 +36,7 @@ public class Calculator {
             else {
                 System.out.println("Invalid operation!");
             }
+            System.out.println(ans);
         }
-        System.out.println(ans);
     }
 }
