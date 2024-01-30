@@ -9,11 +9,9 @@ while True:
     Rec.append(R)
     ch = input("Do you want to enter more records? (y/n)")
     if ch in 'nN':
+        pickle.dump(Rec, f) #Dumps the entire list/ Writing binary file
+        f.close()
         break
-    pickle.dump(Rec, f) #Dumps the entire list/ Writing binary file
-    f.close()
-
-#Content not dumping in the binary file
 
 fr = open("Bin_Tuples.dat", "rb")
 read = pickle.load(fr) #Loads the entire list/ Reading binary file
