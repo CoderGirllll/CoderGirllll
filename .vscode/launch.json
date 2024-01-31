@@ -2,6 +2,128 @@
   "version": "0.2.0",
   "configurations": [
     {
+<<<<<<< HEAD
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Largest",
+      "request": "launch",
+      "mainClass": "Largest",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Count_Num",
+      "request": "launch",
+      "mainClass": "Count_Num",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Conditionals",
+      "request": "launch",
+      "mainClass": "Conditionals",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Case_Check",
+      "request": "launch",
+      "mainClass": "Case_Check",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "temp",
+      "request": "launch",
+      "mainClass": "temp",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Demo",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "Arrays",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Swap",
+      "request": "launch",
+      "mainClass": "Swap",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Sum",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Shadowing",
+      "request": "launch",
+      "mainClass": "Shadowing",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Overloading",
+      "request": "launch",
+      "mainClass": "Overloading",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Questions",
+      "request": "launch",
+      "mainClass": "Questions",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "CoderGirllll_aaab24f8"
+    },
+    {
+=======
+>>>>>>> parent of 17468c5 (VS Code Settings)
       "type": "lldb",
       "request": "launch",
       "name": "Debug",
