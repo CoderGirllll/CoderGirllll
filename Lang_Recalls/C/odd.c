@@ -6,4 +6,4 @@ int main(void) {
             printf("%i", i);
         };
     };
-} return 0;
+}
