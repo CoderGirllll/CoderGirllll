@@ -1,0 +1,15 @@
+{
+    "kind": "EntityLinking",
+    "parameters": {
+      "modelVersion": "latest"
+    },
+    "analysisInput": {
+      "documents": [
+        {
+          "id": "1",
+          "language": "en",
+          "text": "I saw Venus shining in the sky"
+        }
+      ]
+    }
+  }

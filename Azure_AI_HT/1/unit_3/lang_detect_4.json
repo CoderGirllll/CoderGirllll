@@ -1,0 +1,15 @@
+{
+    "documents": [
+        {
+            "id": "1",
+            "detectedLanguage": {
+                "name": "Spanish",
+                "iso6391Name": "es",
+                "confidenceScore": 0.9375
+            },
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-10-01"
+}

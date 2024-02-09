@@ -1,0 +1,26 @@
+{
+    "kind": "KeyPhraseExtractionResults",
+    "results": {
+    "documents": [   
+        {
+         "id": "1",
+         "keyPhrases": [
+           "change",
+           "world"
+         ],
+         "warnings": []
+       },
+       {
+         "id": "2",
+         "keyPhrases": [
+           "miles",
+           "single step",
+           "journey"
+         ],
+         "warnings": []
+       }
+],
+    "errors": [],
+    "modelVersion": "2021-06-01"
+    }
+}
