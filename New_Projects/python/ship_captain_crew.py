@@ -1,5 +1,6 @@
 import random
 import tkinter as tk
+from playsound import playsound
 
 #Defined Functions
 def display_score(sc):
@@ -7,16 +8,7 @@ def display_score(sc):
     score.pack()
 
 
-def dice_display():
-    r1 = roll_dice()
-    r2 = roll_dice()
-    r3 = roll_dice()
-    r4 = roll_dice()
-    r5 = roll_dice()
-    list = [r1, r2, r3, r4, r5]
-    dice.config(text=list)
-    dice.pack()
-    
+def calc_score(list):
     #Check for score
     score = "YOU GOT A "
     if ('\u2685' in list):
@@ -48,9 +40,26 @@ def dice_display():
                 cargo += 6
     
     score += str(cargo)
-
     #Displaying the score
     display_score(score)
+
+
+def dice_display():
+    r1 = roll_dice()
+    r2 = roll_dice()
+    r3 = roll_dice()
+    r4 = roll_dice()
+    r5 = roll_dice()
+    list = [r1, r2, r3, r4, r5]
+    dice.config(text=list)
+    dice.pack()
+    play()
+    #Check for score
+    calc_score(list)
+
+
+def play():    
+    playsound('New_Projects\python\dice_roll.mp3', block=True)
 
 
 def roll_dice():
