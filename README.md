@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderGirllll
 - 👀 I’m interested in coding for a good cause and fun alike.
-- 🌱 I’m currently learning web development tools.
+- 🌱 I’m currently pursuing BTech IT degree.
   <!---
   💞️ I’m looking to collaborate on ...
   📫 How to reach me ...
