@@ -19,7 +19,7 @@ def roll():
     
     
 def play():    
-    playsound('New_Projects\python\dice_roll.mp3', block=True)
+    playsound('Mini_Projects\python\Effects\dice_rolls.mp3', block=True)
 
 
 button = tkinter.Button(root, text="Roll the Dice", command=roll, font=("san-serif", 20))
