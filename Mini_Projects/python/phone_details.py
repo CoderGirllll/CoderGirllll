@@ -1,3 +1,4 @@
+'''
 import phonenumbers
 from phonenumbers import geocoder, carrier, timezone
 
@@ -35,3 +36,28 @@ else:
         print("Time Zone Not Found")
     else:
         print("Time Zone: ", time_zone)
+'''
+
+'''
+#For laptop location
+import geocoder
+g = geocoder.ip("me")
+print(g.latlng)
+'''
+
+import geocoder
+g = geocoder.ip('195.7.157.0')
+print(g.country)
+print(g.state)
+print(g.city)
+print(g.street)
+print(g.postal)
+print(g.housenumber)
+print(g.latlng)
+
+'''
+from ipregistry import IpregistryClient
+client = IpregistryClient("tryout")
+ipInfo = client.origin_lookup_ip()
+print(ipInfo)
+'''
