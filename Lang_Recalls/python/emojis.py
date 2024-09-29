@@ -1,0 +1,1 @@
+print("I love you, maa!\U0001F62D\U0001F917\U0001F60C")
