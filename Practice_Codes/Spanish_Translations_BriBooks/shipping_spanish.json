@@ -1,0 +1,32 @@
+{
+  "heading": "Política de Envíos",
+  "content": "En <a href=\"https://www.bribooks.com/\" style='color:rgba(82, 98, 203)'> Bribooks.com </a>, nos comprometemos a ofrecer a nuestros clientes la mejor experiencia posible en cuanto al envío y entrega de sus pedidos. Como empresa que imprime libros bajo demanda, trabajamos con socios de envío externos para garantizar que su pedido se entregue de manera oportuna y eficiente.",
+  "shipping_times": {
+    "heading": "Tiempos de Envío",
+    "description": "Típicamente, su pedido será enviado dentro de los 21 días hábiles o 30 días calendario desde el momento de su pedido. Una vez que su pedido haya sido enviado, podrá rastrearlo con el número de seguimiento en nuestra página de seguimiento."
+  },
+  "delivery_times": {
+    "heading": "Tiempos de Entrega",
+    "description": "Los tiempos de entrega variarán dependiendo de su ubicación y el método de envío que seleccione durante el pago. En general, puede esperar que su pedido llegue dentro de los 21 días hábiles o 30 días calendario, lo que ocurra primero. Tenga en cuenta que no podemos garantizar los tiempos de entrega, ya que dependen del transportista y de cualquier retraso que puedan experimentar."
+  },
+  "shipping_options": {
+    "heading": "Opciones de Envío",
+    "description": "Ofrecemos una variedad de opciones de envío para que nuestros clientes elijan. El costo del envío variará dependiendo de su ubicación y el método de envío que seleccione."
+  },
+  "international_shipping": {
+    "heading": "Envíos Internacionales",
+    "description": "Ofrecemos envíos internacionales a países seleccionados. Tenga en cuenta que el envío internacional puede demorar más en llegar que el envío nacional y puede estar sujeto a tarifas aduaneras e impuestos de importación. Estas tarifas son responsabilidad del cliente y no están incluidas en el costo del envío."
+  },
+  "order_tracking": {
+    "heading": "Seguimiento de Pedidos",
+    "description": "Una vez que su pedido haya sido enviado, recibirá una confirmación por correo electrónico con un número de seguimiento para que pueda rastrear su paquete. Si tiene alguna pregunta o inquietud sobre el estado de su pedido, no dude en <a href=\"mailto:support@bribooks.com\" style='color:rgba(82, 98, 203)'>contactarnos</a>."
+  },
+  "shipping_delays": {
+    "heading": "Retrasos en el Envío",
+    "description": "Aunque nos esforzamos por entregar su pedido de manera oportuna, puede haber casos en los que circunstancias imprevistas causen un retraso en la entrega de su paquete. En tales casos, trabajaremos con el transportista para resolver cualquier problema y asegurarnos de que su paquete sea entregado lo antes posible."
+  },
+  "further_inquiries": {
+    "heading": "Consultas Adicionales",
+    "description": "Si tiene alguna pregunta o inquietud sobre nuestra política de envíos, no dude en <a href=\"mailto:support@bribooks.com\" style='color:rgba(82, 98, 203)'>contactarnos</a>. Siempre estaremos encantados de ayudarle."
+  }
+}

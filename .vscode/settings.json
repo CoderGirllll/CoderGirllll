@@ -57,5 +57,7 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "cmake.sourceDirectory": "C:/MingW - 64/mingw-w64-v11.0.0/COPYING.MinGW-w64-runtime"
+  "cmake.sourceDirectory": "C:/MingW - 64/mingw-w64-v11.0.0/COPYING.MinGW-w64-runtime",
+  "terminal.integrated.focusAfterRun": "none",
+  "code-runner.runInTerminal": true
 }
