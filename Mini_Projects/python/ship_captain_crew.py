@@ -59,7 +59,7 @@ def dice_display():
 
 
 def play():    
-    playsound('New_Projects\python\dice_roll.mp3', block=True)
+    playsound("Mini_Projects\python\Effects\dice_rolls.mp3", block=True)
 
 
 def roll_dice():
