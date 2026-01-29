@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoderGirllll
+- 👋 Hi, I’m Samya Goel.
 - 👀 I’m interested in coding for a good cause and fun alike.
 - 🌱 I’m currently pursuing BTech IT degree.
   <!---
